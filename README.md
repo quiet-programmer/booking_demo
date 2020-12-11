@@ -1,15 +1,18 @@
-# book_app_demo
+## Booking Africa Demo
 
-A new Flutter project.
+This is just a demo appication for test
+
+<center>
+<table>
+  <tbody>
+    <tr>
+      <td><img src='https://github.com/quiet-programmer/booking_demo/blob/master/ss/130757948_837033230417022_4215463385902486371_n.jpg' width='300' height='610'></td>
+     </tr>
+  </tbody>
+</table>
+</center>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
