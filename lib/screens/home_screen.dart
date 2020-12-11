@@ -72,7 +72,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           });
                         },
                         decoration: InputDecoration(
-                          hintText: "Search user name only",
+                          hintText: "Search name only",
                           disabledBorder: InputBorder.none,
                           enabledBorder: InputBorder.none,
                           focusedBorder: InputBorder.none,
