@@ -70,6 +70,7 @@ class ProfileContainer extends StatelessWidget {
                           height: 50,
                           width: 50,
                           decoration: BoxDecoration(
+                            border: Border.all(color: Colors.orange),
                             borderRadius: BorderRadius.circular(50),
                             image: DecorationImage(
                               image: NetworkImage(
