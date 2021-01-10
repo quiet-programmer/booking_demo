@@ -1,6 +1,7 @@
 ## Booking Africa Demo
 
-This is just a demo appication for test
+This is just a demo appication for test, for an interview...
+<p>If you are facing issue loading the API I ignored it, sorry about that</p>
 
 <center>
 <table>
